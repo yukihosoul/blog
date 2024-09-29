@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 天生地梦</title>
-    <link>https://yukihosoul.github.io/blog/posts/</link>
+    <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in Posts on 天生地梦</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yukihosoul.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《虚构的灯塔》</title>
-      <link>https://yukihosoul.github.io/blog/posts/first/</link>
+      <link>http://localhost:1313/blog/posts/first/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://yukihosoul.github.io/blog/posts/first/</guid>
+      <guid>http://localhost:1313/blog/posts/first/</guid>
       <description>怯爱的人疲于真理 苦渡中沸扬</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on 天生地梦</title>
-    <link>https://yukihosoul.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Home on 天生地梦</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 29 Sep 2024 10:13:31 +0800</lastBuildDate>
-    <atom:link href="https://yukihosoul.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>xiezhongshan</title>
-      <link>https://yukihosoul.github.io/blog/about/</link>
+      <link>http://localhost:1313/blog/about/</link>
       <pubDate>Sun, 29 Sep 2024 10:13:31 +0800</pubDate>
-      <guid>https://yukihosoul.github.io/blog/about/</guid>
+      <guid>http://localhost:1313/blog/about/</guid>
       <description></description>
     </item>
     <item>
       <title>《虚构的灯塔》</title>
-      <link>https://yukihosoul.github.io/blog/posts/first/</link>
+      <link>http://localhost:1313/blog/posts/first/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://yukihosoul.github.io/blog/posts/first/</guid>
+      <guid>http://localhost:1313/blog/posts/first/</guid>
       <description>怯爱的人疲于真理 苦渡中沸扬</description>
     </item>
   </channel>
