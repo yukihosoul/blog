@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G Xxxxxxxxx on 天生地梦</title>
-    <link>http://localhost:1313/g-xxxxxxxxx/</link>
+    <link>https://yukihosoul.github.io/blog/g-xxxxxxxxx/</link>
     <description>Recent content in G Xxxxxxxxx on 天生地梦</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="http://localhost:1313/g-xxxxxxxxx/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yukihosoul.github.io/blog/g-xxxxxxxxx/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
