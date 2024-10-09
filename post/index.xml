@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My website</title>
+    <title>Posts on 天生地梦</title>
     <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on My website</description>
+    <description>Recent content in Posts on 天生地梦</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/post/first/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/first/</guid>
-      <description>An LSM Tree overview and Java implementation.</description>
+      <title>梦境.回到高中上课</title>
+      <link>http://localhost:1313/post/post4/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post4/</guid>
+      <description>关于我同事王震的两个梦境</description>
+    </item>
+    <item>
+      <title>国庆结束了</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post3/</guid>
+      <description>能不能放假放到年末！</description>
+    </item>
+    <item>
+      <title>朝花夕拾</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post2/</guid>
+      <description>时至今日，不如重启博客</description>
+    </item>
+    <item>
+      <title>虚构的灯塔</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>怯爱的人疲于真理 苦渡中沸扬</description>
     </item>
   </channel>
 </rss>
