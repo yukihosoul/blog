@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on 天生地梦</title>
-    <link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://www.todream.life:443/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on 天生地梦</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.todream.life:443/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>朝花夕拾</title>
-      <link>http://localhost:1313/posts/post2/</link>
+      <link>https://www.todream.life:443/posts/post2/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post2/</guid>
+      <guid>https://www.todream.life:443/posts/post2/</guid>
       <description>&lt;p&gt;我一直觉得博客是一个很好的记载生活的工具，但是很可惜没有持续下来。&lt;/p&gt;&#xA;&lt;p&gt;我记得最早开始是读初中的时候新浪的博客，那个时候文字还是一个很纯粹的东西，网络氛围也比较友善。我依然记得让我自己有一个博客的时候，老师对我满脸震撼的表情。现在回想起来，博客真的算是我人生中一个小小的与网络结缘的地方。新浪博客也是，现在的Hugo也是。&lt;/p&gt;&#xA;&lt;p&gt;就这样废弃了很久的博客，现在年过30，突然又想把它重启拾起来，像是鲁迅的朝花夕拾一样，人生有这么多闪光的碎片，不好好记录下来做个念想属实有点可惜了。&lt;/p&gt;&#xA;&lt;p&gt;关于博客的选择我也有很多考量，不能用平台的（新浪）感觉不靠谱，容易倒闭，有广告，而且主题不够干净。第二个就是不能自建服务器搭博客，因为自己之前就是使用的WordPress，里面需要考虑的东西太多了，域名+服务器+备案+数据库，虽然都是简单的，但是维护起来时间成本比较高，整天担心这担心那的。第三个本来也有考虑直接写在印象笔记里，但是这就不是博客了，不是吗？Hugo我很喜欢，简洁干净免费，而且托管在GithubPage里也很稳定。&lt;/p&gt;&#xA;&lt;p&gt;我之前关注的一个宁波老阿姨的博客（https://blog.sina.com.cn/u/2303779410）就是因为莫名其妙的原因打不开了，她就再也没有更新了，她的最后一篇博文内容至今让我很难受：[听说，新浪博客要关门了，因此我已经提前走人了，天下没有不散的筵席!我很久不点开博客看看了。]&lt;/p&gt;&#xA;&lt;p&gt;是的，天下没有不散的宴席，有些人有些事总会在相关后行走在各自的轨迹上。但文字是有力量的，我不希望内心的一些想法总是被网络娱乐的内容消解掉，先记录，再回顾。就这么先计划了，每周至少写一次，笃行不怠，加油把！&lt;/p&gt;</description>
     </item>
   </channel>
