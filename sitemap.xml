@@ -3,18 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.todream.life:443/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.todream.life:443/posts/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.todream.life:443/tags/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.todream.life:443/posts/post5/</loc>
-    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.todream.life:443/tags/%E4%BA%BA%E7%94%9F/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.todream.life:443/posts/post6/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.todream.life:443/tags/%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2024-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.todream.life:443/posts/post5/</loc>
     <lastmod>2024-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.todream.life:443/tags/%E9%97%B2%E9%B1%BC/</loc>
@@ -49,7 +55,5 @@
   </url><url>
     <loc>https://www.todream.life:443/posts/post1/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.todream.life:443/posts/post6/</loc>
   </url>
 </urlset>
